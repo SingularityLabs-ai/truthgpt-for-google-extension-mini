@@ -4,12 +4,11 @@
 
 <div align="center">
 
-### TruthGPT is a truth seeking hallicination eliminating chatbot and TruthGPT for google is it's integration with google search
 
-[![author][author-image]][author-url]
-[![license][license-image]][license-url]
-[![release][release-image]][release-url]
-[![last commit][last-commit-image]][last-commit-url]
+### TruthGPT is a truth seeking hallicination eliminating chatbot 
+### and TruthGPT for google is it's integration with google search
+
+
 
 [![Join us on Discord](https://invidget.switchblade.xyz/jc4xtF58Ve)](https://discord.gg/jc4xtF58Ve)
 
